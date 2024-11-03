@@ -1,0 +1,82 @@
+ColorColumn: '#F8E8EE'    # Soft pastel pink for highlighted columns
+Conceal: '#E4CAD1'        # Light pink-gray, subtle concealment
+Cursor: '#FFAFCC'         # Bright pastel pink for the cursor
+CursorIM: '#FFAFCC'       # Same as Cursor for consistency
+CursorColumn: '#F3D1D5'   # Soft light pink for cursor column
+CursorLine: '#F3D1D5'     # Subtle pink highlight for cursor line
+CursorLineNr: '#E29FA8'   # Medium pink for line number in cursor line
+Directory: '#D982B5'      # Slightly darker pink for directories
+DiffAdd: '#C4E6DB'        # Light mint for additions in diffs
+DiffChange: '#F6D1DF'     # Soft pink for changes in diffs
+DiffDelete: '#F8C1CD'     # Light pastel pink for deletions in diffs
+DiffText: '#E29FA8'       # Medium pink for emphasized diff text
+ErrorMsg: '#FF7A85'       # Bright pink-red for error messages
+VertSplit: '#E8B2BA'      # Light pink-gray for vertical splits
+Folded: '#E4CAD1'         # Soft muted pink-gray for folded text
+FoldColumn: '#F3D1D5'     # Light pink for the fold column
+SignColumn: '#F3D1D5'     # Light pink for sign column
+IncSearch: '#FFCCE5'      # Light pink highlight for incremental search
+LineNr: '#E4CAD1'         # Soft pink-gray for line numbers
+MatchParen: '#FFAFCC'     # Bright pastel pink for matching parentheses
+ModeMsg: '#FFAFCC'        # Soft pink for mode messages
+MoreMsg: '#FFB3D0'        # Light pink for 'more' messages
+NonText: '#D5A2AC'        # Medium muted pink for non-text characters
+Normal: '#FFD1DC'         # Base pastel pink for normal text
+PMenu: '#F8E8EE'          # Soft pink-gray for pop-up menus
+PMenuSel: '#FFAFCC'       # Highlighted selection in pop-up menus
+PmenuSbar: '#F3D1D5'      # Scroll bar in the pop-up menu
+PmenuThumb: '#FFCCE5'     # Thumb (active part) of pop-up menu scroll bar
+Question: '#FFAFCC'       # Light pink for questions/prompts
+Search: '#FFCCE5'         # Light pink for search matches
+SpecialKey: '#E29FA8'     # Medium pink for special keys
+SpellBad: '#FF7A85'       # Bright pink-red for spelling errors
+SpellLocal: '#FFCCE5'     # Light pink for local spelling suggestions
+SpellCap: '#FFB3D0'       # Softer pink for capitalization suggestions
+SpellRare: '#FFD1DC'      # Soft pink for rare word suggestions
+StatusLine: '#E29FA8'     # Medium pink for active status line
+StatusLineNC: '#E4CAD1'   # Soft muted pink-gray for inactive status line
+TabLine: '#FFD1DC'        # Light pink for tab line
+TabLineFill: '#F8E8EE'    # Base color for tab line background
+TabLineSel: '#FFAFCC'     # Highlighted tab
+Title: '#D982B5'          # Darker pastel pink for titles
+Visual: '#FFCCE5'         # Highlight selection in visual mode
+VisualNOS: '#E4CAD1'      # Light pink-gray for visual mode (non-selectable)
+WarningMsg: '#FFAFCC'     # Soft pink for warnings
+WildMenu: '#FFAFCC'       # Soft pink for wildmenu selections
+
+# BASE SYNTAX
+Comment: '#E4CAD1'        # Muted pink-gray for comments
+Constant: '#D982B5'       # Slightly darker pink for constants
+String: '#FFCCE5'         # Light pink for strings
+Character: '#FFCCE5'      # Light pink for characters
+Boolean: '#D982B5'        # Slightly darker pink for booleans
+Number: '#FFAFCC'         # Bright pastel pink for numbers
+Float: '#FFAFCC'          # Bright pastel pink for floats
+Identifier: '#D982B5'     # Darker pink for identifiers
+Function: '#FFAFCC . i'       # Bright pastel pink for functions
+Statement: '#E29FA8'      # Medium pink for statements
+Conditional: '#E29FA8'    # Medium pink for conditionals
+Repeat: '#E29FA8'         # Medium pink for loops/repeats
+Label: '#E29FA8'          # Medium pink for labels
+Operator: '#FFB3D0'       # Soft pink for operators
+Keyword: '#FFB3D0'        # Soft pink for keywords
+Exception: '#FF7A85'      # Bright pink-red for exceptions
+PreProc: '#FFB3D0'        # Soft pink for preprocessor directives
+Include: '#FFB3D0'        # Soft pink for includes
+Define: '#FFB3D0'         # Soft pink for definitions
+Macro: '#FFAFCC'          # Bright pastel pink for macros
+PreCondit: '#FFB3D0'      # Soft pink for preprocessor conditionals
+Type: '#D982B5'           # Slightly darker pink for types
+StorageClass: '#D982B5'   # Slightly darker pink for storage classes
+Structure: '#D982B5'      # Slightly darker pink for structures
+Typedef: '#D982B5'        # Slightly darker pink for typedefs
+Special: '#E29FA8'        # Medium pink for special elements
+SpecialChar: '#FFCCE5'    # Light pink for special characters
+Tag: '#FFB3D0'            # Soft pink for tags
+Delimiter: '#FFD1DC'      # Base pastel pink for delimiters
+SpecialComment: '#E4CAD1' # Muted pink-gray for special comments
+Debug: '#FF7A85'          # Bright pink-red for debug lines
+Underlined: '#FFAFCC'     # Bright pastel pink for underlined text
+Ignore: '#FFD1DC'         # Base pastel pink for ignored text
+Error: '#FF7A85'          # Bright pink-red for errors
+Todo: '#FFAFCC'           # Soft pink for TODO items

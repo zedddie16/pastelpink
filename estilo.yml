@@ -1,0 +1,10 @@
+name: 'pastelpink'
+version: '1.0.0'
+license: 'MIT'
+author: 'zedddie16'
+url: ''
+description: 'Pastel Pink Theme For NeoVim'
+colorschemes:
+  - name: pastelpink
+    background: 'dark'
+    palette: pastelpink
