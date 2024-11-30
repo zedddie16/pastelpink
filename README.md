@@ -1,4 +1,6 @@
 # A little showcase of my pastelpink theme
+![Uploading image.png…]()
+
 ![20241103_17h38m31s_grim](https://github.com/user-attachments/assets/6d498391-d828-4a3e-a06c-5a620d165d57)
 ![20241103_17h38m52s_grim](https://github.com/user-attachments/assets/383d0a79-d3d5-40b1-ba72-2dbf649f8698)
 ![20241103_17h39m09s_grim](https://github.com/user-attachments/assets/49f20095-0aab-4768-a9b8-08a55af4de8b)
