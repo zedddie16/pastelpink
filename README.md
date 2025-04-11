@@ -1,4 +1,11 @@
 # One of a kind pastel pink theme for neovim
+### Installation
+#### Lazy nvim 
+```lua
+{ 'zedddie16/pastelpink' }
+```
+i do use lazy nvim by myself so Idk how to downlaod it in other nvim packages managers
+#### Showcase (you can change opacity in your terminal config)
 ![image](https://github.com/user-attachments/assets/0d4b724c-f516-4edf-9ff7-63bdc423cbbb)
 ![image](https://github.com/user-attachments/assets/f7da8a71-1426-4a75-bd54-6491277a4edb)
 ![image](https://github.com/user-attachments/assets/08897b9f-5fe0-4286-bc5c-640fb7d71a58)
